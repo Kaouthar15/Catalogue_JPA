@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jakarta.persistence-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jpa/jpa/jakarta.persistence-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jpa/jpa/jakarta.annotation-api.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jpa/jpa/eclipselink.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jpa/jpa/org.eclipse.persistence.jpa.modelgen.processor.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jpa/jpa/org.eclipse.persistence.jpars.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
